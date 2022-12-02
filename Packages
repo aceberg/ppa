@@ -9,3 +9,16 @@ SHA1: 28569323703c267656a62eea1ab9ed4b4994e436
 SHA256: 8419fb373fdfc770f46fab4f2fdef1dfb6ad6e3345a1c63845f8786ca2921961
 Description: Telegram bot to execute a command from a configurable list on your Linux server
 
+Package: linuxexecbot
+Version: 1.0.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./LinuxExecBot-1.0.1-0_all.deb
+Size: 3884968
+MD5sum: 4534763d43b3a5c025036bb419489467
+SHA1: 3ee2986a66cafe10cdb52f2b7c124004a5f601ea
+SHA256: b9250fe9957a47bc983fede80b9baf3b1831503b19a03eba0f1a5e4c651e1348
+Section: utils
+Priority: optional
+Description: Telegram bot to execute a command from a configurable list on your Linux machine
+
