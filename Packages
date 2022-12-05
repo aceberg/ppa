@@ -3,10 +3,10 @@ Version: 1.0.1
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
 Filename: ./LinuxExecBot-1.0.1-0_all.deb
-Size: 3561812
-MD5sum: 3a2579944f2328b48c647f8f2095b295
-SHA1: 5e12b6cea03c1b8f52b27faa79182292e0d729ac
-SHA256: d4a0a253a50502205b6177c236d72a5f9f94a3de57e6180cce15a97d1d0596fc
+Size: 3561296
+MD5sum: 1d127fc1ca09b3017a90b1c9b87ad9ca
+SHA1: 5af3e22c332ab5c59201b3f3424c5f40f5472838
+SHA256: 70683e2a93883aba0be2548b65375f3c1605eb91b2fc5749de721821213106bc
 Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
