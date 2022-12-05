@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/aceberg/ppa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/aceberg/ppa/actions/workflows/pages/pages-build-deployment)
+
 # ppa
 Repo for my .deb packages
 
