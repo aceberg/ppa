@@ -1,3 +1,29 @@
+Package: git-syr
+Version: 0.1.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-syr-0.1.1-0_all.deb
+Size: 5031864
+MD5sum: 0c883d972e23a3f879d58ea7d3fac98f
+SHA1: 2ac48fc316e624bbd12755bd30ee99dae32f8117
+SHA256: 9a343b32989c7042417de5ad31761dcfe4e235e201dd96b525f4d38c5315e58b
+Section: utils
+Priority: optional
+Description: Sync Your Repos - pull or push your git repos regularly
+
+Package: git-syr-cli
+Version: 0.1.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-syr-cli-0.1.1-0_all.deb
+Size: 1525920
+MD5sum: 35b8e0563ccd223d92466b257d0694e9
+SHA1: 74ffc408c4e84cac201c189221ee693e8c798b3a
+SHA256: 3db992cabcfb9a64606986f77b462699f614a16dee17686ae6c24dec5d7ca5f0
+Section: utils
+Priority: optional
+Description: Sync Your Repos - pull or push your git repos regularly
+
 Package: linuxexecbot
 Version: 1.0.1
 Architecture: all
