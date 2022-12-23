@@ -11,6 +11,19 @@ Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
 
+Package: git-syr
+Version: 0.1.2
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-syr-0.1.2-0_all.deb
+Size: 5032292
+MD5sum: 3cfc9c5ee044741714dd2bdd8a4f1b7c
+SHA1: 0f9acc6edd40c157da7b3b50005a9081f3a68362
+SHA256: 5434732a467e81f6635f61a7398b0e154996182b063795112f0289251cee97ad
+Section: utils
+Priority: optional
+Description: Sync Your Repos - pull or push your git repos regularly
+
 Package: git-syr-cli
 Version: 0.1.1
 Architecture: all
@@ -20,6 +33,19 @@ Size: 1525920
 MD5sum: 35b8e0563ccd223d92466b257d0694e9
 SHA1: 74ffc408c4e84cac201c189221ee693e8c798b3a
 SHA256: 3db992cabcfb9a64606986f77b462699f614a16dee17686ae6c24dec5d7ca5f0
+Section: utils
+Priority: optional
+Description: Sync Your Repos - pull or push your git repos regularly
+
+Package: git-syr-cli
+Version: 0.1.2
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-syr-cli-0.1.2-0_all.deb
+Size: 1526016
+MD5sum: 26b960de76b0d76c5c96060902c010df
+SHA1: 44c5ed2ca34d23ea01740f595d1ef1290614d7e5
+SHA256: d9cd54176771975c7b1f73cf1927d477aa94a1c4ed1f5db18a129e626917cb9b
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
