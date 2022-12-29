@@ -63,3 +63,16 @@ Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
+Package: watchyourlan
+Version: 0.8.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./watchyourlan-0.8.1-0_all.deb
+Size: 8450644
+MD5sum: 16039c1a2e892e5401503c6230853329
+SHA1: 84ab313cf0031b3577416349ff56ec3dfa8707af
+SHA256: 0ec647cfbb7576ab15e1422944951e9057779ab23a5eeacc4292b8e2d0841f03
+Section: utils
+Priority: optional
+Description: Lightweight network IP scanner with web GUI
+

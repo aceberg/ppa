@@ -20,3 +20,4 @@ sudo apt update
 | ---- | ---- |
 | [git-syr](https://github.com/aceberg/git-syr) | Sync Your Repos - pull or push your git repos regularly |
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list |
+| [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI |
