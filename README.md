@@ -4,7 +4,7 @@
 Repo for my .deb packages
 
 
-## Usage
+## Add repo
 ```sh
 curl -s --compressed "https://aceberg.github.io/ppa/KEY.gpg" | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/aceberg.gpg
 ```
@@ -13,6 +13,12 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/aceberg.list "https://acebe
 ```
 ```sh
 sudo apt update
+```
+
+## Install package
+
+```sh
+sudo apt install $PKGNAME
 ```
 
 ## Packages

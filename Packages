@@ -89,3 +89,16 @@ Section: utils
 Priority: optional
 Description: Lightweight network IP scanner with web GUI
 
+Package: watchyourlan
+Version: 0.9.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./watchyourlan-0.9.1-0_all.deb
+Size: 8636776
+MD5sum: a86bb8f3f456cbac2461d5f141b1a60a
+SHA1: 7646b1fcc58da4caefda81a24a0fa7fb805d4082
+SHA256: 49d0432752a7e9f1c6a92dca3e9e0b8f0bc1ad724e7c67eaae081bb5cce00501
+Section: utils
+Priority: optional
+Description: Lightweight network IP scanner with web GUI
+
