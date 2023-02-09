@@ -50,6 +50,19 @@ Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
 
+Package: lightalert
+Version: 0.2.2
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./lightalert-0.2.2-0_all.deb
+Size: 8601812
+MD5sum: 7e79249ba370828b68f622b2b3db7eff
+SHA1: e4250dcaa6d1927bb1a306b143474a2f64f06cec
+SHA256: f7144f7b46295050cf1b840658f5000c5b037d55cb18d22d1af28aa048e9177e
+Section: utils
+Priority: optional
+Description: Lightweight cron job monitoring
+
 Package: linuxexecbot
 Version: 1.0.1
 Architecture: all
