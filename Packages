@@ -76,6 +76,19 @@ Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
+Package: linuxexecbot
+Version: 1.0.2
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./LinuxExecBot-1.0.2-0_all.deb
+Size: 4004908
+MD5sum: 790ddb4b5b8aa241c5fa27af16829818
+SHA1: 79fd7eb75278b6fa78f0ea47a15d9918bf39b77e
+SHA256: 95e7f51c5c0ba99c31a48b3abfd63716b71ab9b2ea8fbe1d6c5e3e8175b3bba1
+Section: utils
+Priority: optional
+Description: Telegram bot to execute a command from a configurable list
+
 Package: watchyourlan
 Version: 0.8.1
 Architecture: all
@@ -111,6 +124,19 @@ Size: 8636776
 MD5sum: a86bb8f3f456cbac2461d5f141b1a60a
 SHA1: 7646b1fcc58da4caefda81a24a0fa7fb805d4082
 SHA256: 49d0432752a7e9f1c6a92dca3e9e0b8f0bc1ad724e7c67eaae081bb5cce00501
+Section: utils
+Priority: optional
+Description: Lightweight network IP scanner with web GUI
+
+Package: watchyourlan
+Version: 0.9.2
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./watchyourlan-0.9.2-0_all.deb
+Size: 9373084
+MD5sum: c56259bcc07f208776b336e65c95701d
+SHA1: 3f97e70e82ca2e9607b5da0fb1c12ba0bf39ed9b
+SHA256: 9f45546199219563214a9394b7e978d331c87f0470d20c89f6a063800889b6f8
 Section: utils
 Priority: optional
 Description: Lightweight network IP scanner with web GUI
