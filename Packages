@@ -1,17 +1,4 @@
 Package: git-syr
-Version: 0.1.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-0.1.1-0_all.deb
-Size: 5031864
-MD5sum: 0c883d972e23a3f879d58ea7d3fac98f
-SHA1: 2ac48fc316e624bbd12755bd30ee99dae32f8117
-SHA256: 9a343b32989c7042417de5ad31761dcfe4e235e201dd96b525f4d38c5315e58b
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr
 Version: 0.1.2
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -37,15 +24,15 @@ Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
 
-Package: git-syr-cli
-Version: 0.1.1
+Package: git-syr
+Version: 0.1.4
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-cli-0.1.1-0_all.deb
-Size: 1525920
-MD5sum: 35b8e0563ccd223d92466b257d0694e9
-SHA1: 74ffc408c4e84cac201c189221ee693e8c798b3a
-SHA256: 3db992cabcfb9a64606986f77b462699f614a16dee17686ae6c24dec5d7ca5f0
+Filename: ./git-syr-0.1.4-0_all.deb
+Size: 5689388
+MD5sum: 6eaaa4828fa91f0cb722c79aa767a4df
+SHA1: 260eb9338fcca4947da925ee757a8924a58bf9b5
+SHA256: 469714b2df03d22da71690e4bfd303924421e831865bd6729ed15d8a563a3bfd
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
@@ -72,6 +59,19 @@ Size: 1683860
 MD5sum: 460ab2ca5d3528e19f38f8865ac8f17e
 SHA1: b7d81fe41e10933a4837568c1a5bb3852ee44b56
 SHA256: 75ab07a89d908812415fb8451820ecb9ced64bf664678f377c269c718ddb18c1
+Section: utils
+Priority: optional
+Description: Sync Your Repos - pull or push your git repos regularly
+
+Package: git-syr-cli
+Version: 0.1.4
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-syr-cli-0.1.4-0_all.deb
+Size: 1683880
+MD5sum: 138791c9dc4972690b85afa16d4a2c1c
+SHA1: 1a40b0a0221ad3bc1c1a5cba63bd4a7428c28430
+SHA256: 274007f5dc6e783097834411ce4286edabc90f121808aff7ae72b88548cfd3b3
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
@@ -114,32 +114,6 @@ SHA256: 794e7c7f0619d6cce993d0a2ce8f1e56d13ae47f8f143ff133037089316be375
 Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
-
-Package: watchyourlan
-Version: 0.8.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.8.1-0_all.deb
-Size: 8450644
-MD5sum: 16039c1a2e892e5401503c6230853329
-SHA1: 84ab313cf0031b3577416349ff56ec3dfa8707af
-SHA256: 0ec647cfbb7576ab15e1422944951e9057779ab23a5eeacc4292b8e2d0841f03
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 0.8.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.8.3-0_all.deb
-Size: 8467116
-MD5sum: d932fa452745e38b5ac07fab13d3f1a7
-SHA1: 4edfaed0c3914e92ee75926da738399568932387
-SHA256: 203459f8491c6a9b23ca97ae160c51c6af909ddd61da44d84e0949539f97ea8f
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
 
 Package: watchyourlan
 Version: 0.9.1
