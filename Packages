@@ -1,12 +1,12 @@
 Package: git-confed
-Version: 0.1.0
+Version: 0.1.1
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-confed-0.1.0-0_all.deb
-Size: 5663648
-MD5sum: 0c451a72f1e964906d81eff8fbc2998a
-SHA1: 40fd6e024ae4b2ffde50717f4982a6e13600348f
-SHA256: 33c2cc77735359e72ac64cbe29e85ac4a712e9c35cee007650d89660414a971c
+Filename: ./git-confed-0.1.1-0_all.deb
+Size: 5692864
+MD5sum: b503d7028fec3b76f3296f1295cbb06d
+SHA1: 7ff16f01ce3c232d11dd5c1fe5f7d1c3e25f4e43
+SHA256: 7a6ad1bfbef87900e617869e38b3ff1d8c8f912f45ee1b219514698d4c34a8b4
 Section: utils
 Priority: optional
 Description: Edit .git/config by predefined blocks
