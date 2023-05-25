@@ -1,3 +1,16 @@
+Package: git-confed
+Version: 0.1.0
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-confed-0.1.0-0_all.deb
+Size: 5663648
+MD5sum: 0c451a72f1e964906d81eff8fbc2998a
+SHA1: 40fd6e024ae4b2ffde50717f4982a6e13600348f
+SHA256: 33c2cc77735359e72ac64cbe29e85ac4a712e9c35cee007650d89660414a971c
+Section: utils
+Priority: optional
+Description: Edit .git/config by predefined blocks
+
 Package: git-syr
 Version: 0.1.2
 Architecture: all
