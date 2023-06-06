@@ -154,6 +154,19 @@ Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
+Package: linuxexecbot
+Version: 1.1.0
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./LinuxExecBot-1.1.0-0_all.deb
+Size: 4008992
+MD5sum: c206160754e7ac3a7520ea49d58e711e
+SHA1: 6b510f133220a6d3a4a96905dd66bd209acf6ff0
+SHA256: 531b2cf67f15e02091012f1bc70f7f1677f797206c3371173d3ae6e77981cc1f
+Section: utils
+Priority: optional
+Description: Telegram bot to execute a command from a configurable list
+
 Package: watchyourlan
 Version: 0.9.1
 Architecture: all
