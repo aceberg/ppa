@@ -1,30 +1,4 @@
 Package: git-confed
-Version: 0.1.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-confed-0.1.1-0_all.deb
-Size: 5692864
-MD5sum: b503d7028fec3b76f3296f1295cbb06d
-SHA1: 7ff16f01ce3c232d11dd5c1fe5f7d1c3e25f4e43
-SHA256: 7a6ad1bfbef87900e617869e38b3ff1d8c8f912f45ee1b219514698d4c34a8b4
-Section: utils
-Priority: optional
-Description: Edit .git/config by predefined blocks
-
-Package: git-confed
-Version: 0.1.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-confed-0.1.2-0_all.deb
-Size: 5698872
-MD5sum: 1355f17fa72d0b674c717a8bf0fc56d3
-SHA1: 221fc802d6f35b59cc64ca000ed62d16a1634ee7
-SHA256: 3b934bc3ca0c91ad661b8c9578d3d49da05394fd70bb9d528f0fdf38424a15e6
-Section: utils
-Priority: optional
-Description: Edit .git/config by predefined blocks
-
-Package: git-confed
 Version: 0.1.3
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -51,19 +25,6 @@ Priority: optional
 Description: Edit .git/config by predefined blocks
 
 Package: git-syr
-Version: 0.1.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-0.1.2-0_all.deb
-Size: 5031892
-MD5sum: f09a1aa0ae694e5572d2762c47269dc8
-SHA1: eaf7985c97d066fdb0015d636c81af2ff11e510c
-SHA256: 4b2a715628ad0d0f9b05174032cf269b9b96afcdbf78e4f7031a1a8bf5a37ef2
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr
 Version: 0.1.3
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -85,19 +46,6 @@ Size: 5689388
 MD5sum: 6eaaa4828fa91f0cb722c79aa767a4df
 SHA1: 260eb9338fcca4947da925ee757a8924a58bf9b5
 SHA256: 469714b2df03d22da71690e4bfd303924421e831865bd6729ed15d8a563a3bfd
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr-cli
-Version: 0.1.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-cli-0.1.2-0_all.deb
-Size: 1526016
-MD5sum: 487f3d3eb42fc77db61322b76506f3c1
-SHA1: 3ca7eb4e80d6cec9dd413f870037c2ab91acfd96
-SHA256: e13c696b3b7cc9b10e98d114a55482f794dbcdfa462df8a30caadc4b355e35da
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
@@ -128,32 +76,6 @@ Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
 
-Package: lightalert
-Version: 0.2.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./lightalert-0.2.2-0_all.deb
-Size: 8601812
-MD5sum: 7e79249ba370828b68f622b2b3db7eff
-SHA1: e4250dcaa6d1927bb1a306b143474a2f64f06cec
-SHA256: f7144f7b46295050cf1b840658f5000c5b037d55cb18d22d1af28aa048e9177e
-Section: utils
-Priority: optional
-Description: Lightweight cron job monitoring
-
-Package: linuxexecbot
-Version: 1.0.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./LinuxExecBot-1.0.1-0_all.deb
-Size: 3561296
-MD5sum: 1d127fc1ca09b3017a90b1c9b87ad9ca
-SHA1: 5af3e22c332ab5c59201b3f3424c5f40f5472838
-SHA256: 70683e2a93883aba0be2548b65375f3c1605eb91b2fc5749de721821213106bc
-Section: utils
-Priority: optional
-Description: Telegram bot to execute a command from a configurable list
-
 Package: linuxexecbot
 Version: 1.0.2
 Architecture: all
@@ -180,31 +102,18 @@ Section: utils
 Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
-Package: watchyourlan
-Version: 0.9.1
+Package: miniboard
+Version: 0.2.1
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.9.1-0_all.deb
-Size: 8636776
-MD5sum: a86bb8f3f456cbac2461d5f141b1a60a
-SHA1: 7646b1fcc58da4caefda81a24a0fa7fb805d4082
-SHA256: 49d0432752a7e9f1c6a92dca3e9e0b8f0bc1ad724e7c67eaae081bb5cce00501
+Filename: ./miniboard-0.2.1-0_all.deb
+Size: 5638468
+MD5sum: 25b645ed14de4f60bc0cdee8f21b3002
+SHA1: 6f64513856448a10ec770cc330edf7b237dfa053
+SHA256: 174379c644bff78f6682407cd929cb15847e719d03809bd9353214dbd7600802
 Section: utils
 Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 0.9.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.9.2-0_all.deb
-Size: 9373084
-MD5sum: c56259bcc07f208776b336e65c95701d
-SHA1: 3f97e70e82ca2e9607b5da0fb1c12ba0bf39ed9b
-SHA256: 9f45546199219563214a9394b7e978d331c87f0470d20c89f6a063800889b6f8
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
+Description: Lightweight Dashboard with Tabs and online status check
 
 Package: watchyourlan
 Version: 0.9.3
