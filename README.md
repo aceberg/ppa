@@ -27,5 +27,5 @@ sudo apt install $PKGNAME
 | [git-confed](https://github.com/aceberg/git-confed) | Edit .git/config by predefined blocks | git-confed |
 | [git-syr](https://github.com/aceberg/git-syr) | Sync Your Repos - pull or push your git repos regularly | git-syr |
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | linuxexecbot |
-| [miniboard](https://github.com/aceberg/miniboard) | Lightweight Dashboard with Tabs and online status check | miniboard |
+| [miniboard](https://github.com/aceberg/miniboard) | Lightweight dashboard with tabs, uptime monitoring and notifications | miniboard |
 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI | watchyourlan |
