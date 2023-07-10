@@ -159,10 +159,10 @@ Version: 1.0.3
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
 Filename: ./miniboard-1.0.3-0_all.deb
-Size: 6831244
-MD5sum: 5a652ff2342d4857b8d3bb4a28312233
-SHA1: e5a21801830b9019967fb3f0377d0a92da5ad110
-SHA256: 85d17764d825e7235723bf589e724f38e087d17f18fa19e6cf9612e2b0dc033c
+Size: 6831412
+MD5sum: c85410528481c86d9e4f11fab64bbafd
+SHA1: 64cf85ac8d57034b831455c2fbd9e47aba2e9763
+SHA256: 593f625eb0a1b919f970668338f43b924458ddbed64fea97bccc461b0337961f
 Section: utils
 Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
