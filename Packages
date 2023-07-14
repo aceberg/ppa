@@ -103,32 +103,6 @@ Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
 Package: miniboard
-Version: 0.2.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-0.2.1-0_all.deb
-Size: 5638468
-MD5sum: 25b645ed14de4f60bc0cdee8f21b3002
-SHA1: 6f64513856448a10ec770cc330edf7b237dfa053
-SHA256: 174379c644bff78f6682407cd929cb15847e719d03809bd9353214dbd7600802
-Section: utils
-Priority: optional
-Description: Lightweight Dashboard with Tabs and online status check
-
-Package: miniboard
-Version: 1.0.0
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.0-0_all.deb
-Size: 6293748
-MD5sum: afc46fb6f82d71f4a3f39973d97fca9b
-SHA1: 8cd09460bae810ba1788a13cc4367e170588438e
-SHA256: 0fb4ef1894179555bd1a3d724f6c4bfcb7940f8dc82af95675b4e35d77c06c72
-Section: utils
-Priority: optional
-Description: Lightweight Dashboard with Tabs and online status check
-
-Package: miniboard
 Version: 1.0.1
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -163,6 +137,19 @@ Size: 6831412
 MD5sum: c85410528481c86d9e4f11fab64bbafd
 SHA1: 64cf85ac8d57034b831455c2fbd9e47aba2e9763
 SHA256: 593f625eb0a1b919f970668338f43b924458ddbed64fea97bccc461b0337961f
+Section: utils
+Priority: optional
+Description: Lightweight dashboard with tabs, uptime monitoring and notifications
+
+Package: miniboard
+Version: 1.0.4
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./miniboard-1.0.4-0_all.deb
+Size: 6836452
+MD5sum: ac4a92600b18d0a1888ef0fd0c7fd8a4
+SHA1: 916529219ebb71ae23302d6a82b696c7f4c0e40f
+SHA256: 6aa4660ad30e8d7a44429a833accd426a829158a659c464e2e6ffdec9b66af1d
 Section: utils
 Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
