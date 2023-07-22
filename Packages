@@ -116,45 +116,6 @@ Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
 Package: miniboard
-Version: 1.0.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.3-0_all.deb
-Size: 6831412
-MD5sum: c85410528481c86d9e4f11fab64bbafd
-SHA1: 64cf85ac8d57034b831455c2fbd9e47aba2e9763
-SHA256: 593f625eb0a1b919f970668338f43b924458ddbed64fea97bccc461b0337961f
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
-Version: 1.0.4
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.4-0_all.deb
-Size: 6836452
-MD5sum: ac4a92600b18d0a1888ef0fd0c7fd8a4
-SHA1: 916529219ebb71ae23302d6a82b696c7f4c0e40f
-SHA256: 6aa4660ad30e8d7a44429a833accd426a829158a659c464e2e6ffdec9b66af1d
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
-Version: 1.0.5
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.5-0_all.deb
-Size: 6835728
-MD5sum: a0d129de90a5183d8777daa8db5c412a
-SHA1: 38104ceff5f392c4ff3578d511fa063aea7f31fb
-SHA256: b591af69d6395385a9fa3ee6245d1c78331e866ad8dc2992e1c6af9e01333bb9
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
 Version: 1.0.6
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -163,6 +124,19 @@ Size: 6837668
 MD5sum: f5618aaf6376be61c21454d6343a453a
 SHA1: d7d271d17f7cb8b8e7bf5728d4e2dbdb9cecba2f
 SHA256: ccb51a68d609c6365c7c0a8ed0252cecdf1d9ef15cc831b2fa4219887c00227a
+Section: utils
+Priority: optional
+Description: Lightweight dashboard with tabs, uptime monitoring and notifications
+
+Package: miniboard
+Version: 1.0.7
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./miniboard-1.0.7-0_all.deb
+Size: 6839420
+MD5sum: e5297a2a77ce7d41467ae14fe1ba4fe4
+SHA1: bb8c287b7cc5159996d95814fc946593fc37e980
+SHA256: 99c48a46bb545b82ceca0d4ddd75d3508f8090b27efd70bc3ee202c10dbb67c8
 Section: utils
 Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
