@@ -142,19 +142,6 @@ Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
 Package: watchyourlan
-Version: 0.9.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.9.3-0_all.deb
-Size: 9374216
-MD5sum: 8f7446f0350e04e0860ad5e87b7b3f98
-SHA1: d2486f7208544762e1e8a78ed581d99fdd2837c0
-SHA256: a6911ba62f40d4a713e659aa7171c4b31c2619edc66f03fc19145573a2c0e8a6
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
 Version: 0.9.4
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -176,6 +163,20 @@ Size: 9267372
 MD5sum: b140604b7fb3159145df8d7de0735b19
 SHA1: 9267848ae49479d07135b0533aaebfeb87c686ee
 SHA256: 9b500103d9e96a4c00b327130cdf914be16b3c32dacbea4524871286ed08f480
+Section: utils
+Priority: optional
+Description: Lightweight network IP scanner with web GUI
+
+Package: watchyourlan
+Version: 1.0.1
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Depends: arp-scan, tzdata
+Filename: ./watchyourlan-1.0.1-0_all.deb
+Size: 9320076
+MD5sum: 69cbc01709810dbd791614a84892020a
+SHA1: 0e586b0525c144320644a079d6e1bc5c833b2fae
+SHA256: 3de8aaf203473a584ad3b9c200f35f53a891f51de822d4a39d48277e6d1d8ace
 Section: utils
 Priority: optional
 Description: Lightweight network IP scanner with web GUI
