@@ -200,10 +200,24 @@ Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
 Depends: arp-scan, tzdata
 Filename: ./watchyourlan-1.0.2-0_all.deb
-Size: 1076
-MD5sum: 67758b4bbdb0870d6d369a197b3835ac
-SHA1: aa1580e76bf14092024f0a3fa8f11269aa92df4d
-SHA256: 2a66be92da6a2ab78ad3db0e0df107011c8ace94f69062548fb5b011621842ec
+Size: 10056014
+MD5sum: 340f653b2f54f12553802ac473b0d3b7
+SHA1: 3e61c09ed57914f72e3aeb3bf8d523302187660a
+SHA256: 9354711b183865f403e4d5095c1967e37078248f5523696d10a3bec5ec562fde
+Section: utils
+Priority: optional
+Description: Lightweight network IP scanner with web GUI
+
+Package: watchyourlan
+Version: 1.0.3
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Depends: arp-scan, tzdata
+Filename: ./watchyourlan-1.0.3-0_all.deb
+Size: 10055976
+MD5sum: 8621307df372213d7997830e2da864aa
+SHA1: 817ce809493c92ebf6b5850e43094ef5998bbe6b
+SHA256: 10effa4ea59c2b5265bdd6502016f356861c7e5c6d1f18e8fedbff37bae380f1
 Section: utils
 Priority: optional
 Description: Lightweight network IP scanner with web GUI
