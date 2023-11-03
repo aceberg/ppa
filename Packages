@@ -154,6 +154,19 @@ Section: utils
 Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
+Package: miniboard
+Version: 1.1.0
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./miniboard-1.1.0-0_all.deb
+Size: 10109748
+MD5sum: 293d3bb4c3bc88a426ff620d32e5608f
+SHA1: a892734ec37c8b3b5c4252be1369f92d42138e78
+SHA256: 3b45a512ce98eaecc45f71fa164097493431ed2040e6f203ea77d591580429f0
+Section: utils
+Priority: optional
+Description: Lightweight dashboard with tabs, uptime monitoring and notifications
+
 Package: watchyourlan
 Version: 0.9.4
 Architecture: all
