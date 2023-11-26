@@ -167,6 +167,21 @@ Section: utils
 Priority: optional
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
+Package: miniboard
+Version: 1.2.0
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 13780
+Filename: ./miniboard_1.2.0_linux_amd64.deb
+Size: 5942970
+MD5sum: ac9051600e8cc32728c7511222660010
+SHA1: 4bf0eaafaf5e0e5a599ce5fa9c6c3df55a0fe336
+SHA256: fc53884041e4f702e82f5fd5f68c4eae47a3da2969c41389c3a901c0cda5d365
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/miniboard
+Description: Lightweight dashboard with tabs, uptime monitoring and notifications
+
 Package: watchyourlan
 Version: 0.9.4
 Architecture: all
