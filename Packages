@@ -116,58 +116,6 @@ Priority: optional
 Description: Telegram bot to execute a command from a configurable list
 
 Package: miniboard
-Version: 1.0.6
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.6-0_all.deb
-Size: 6837668
-MD5sum: f5618aaf6376be61c21454d6343a453a
-SHA1: d7d271d17f7cb8b8e7bf5728d4e2dbdb9cecba2f
-SHA256: ccb51a68d609c6365c7c0a8ed0252cecdf1d9ef15cc831b2fa4219887c00227a
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
-Version: 1.0.7
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.7-0_all.deb
-Size: 6839420
-MD5sum: e5297a2a77ce7d41467ae14fe1ba4fe4
-SHA1: bb8c287b7cc5159996d95814fc946593fc37e980
-SHA256: 99c48a46bb545b82ceca0d4ddd75d3508f8090b27efd70bc3ee202c10dbb67c8
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
-Version: 1.0.8
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.0.8-0_all.deb
-Size: 6840744
-MD5sum: 3997bae2770bf24f5fcec8e85b9f5b46
-SHA1: fe71464d56bf5f7b8e67b61163764a138a22a33e
-SHA256: 38cef6c243ee23bc8110fe72e729c1fa63ebcc608e9859b2cb49bb260c7b375f
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
-Version: 1.1.0
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./miniboard-1.1.0-0_all.deb
-Size: 10109748
-MD5sum: 293d3bb4c3bc88a426ff620d32e5608f
-SHA1: a892734ec37c8b3b5c4252be1369f92d42138e78
-SHA256: 3b45a512ce98eaecc45f71fa164097493431ed2040e6f203ea77d591580429f0
-Section: utils
-Priority: optional
-Description: Lightweight dashboard with tabs, uptime monitoring and notifications
-
-Package: miniboard
 Version: 1.2.0
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -182,59 +130,20 @@ Priority: optional
 Homepage: https://github.com/aceberg/miniboard
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
-Package: watchyourlan
-Version: 0.9.4
-Architecture: all
+Package: miniboard
+Version: 1.2.2
+Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-0.9.4-0_all.deb
-Size: 9257616
-MD5sum: da38446a82712b22afde3ff8ccbc5b50
-SHA1: 3860486820788013ff7bf2abe14fdc143b11b41c
-SHA256: c4e36742ebfe3824054a97a8c16f1226219a220f368c339ef17da772d9a39a0f
+Installed-Size: 13784
+Filename: ./miniboard_1.2.2_linux_amd64.deb
+Size: 5943556
+MD5sum: 7ba20361ec85e50db3b0df357ba22bfa
+SHA1: 6afe89c1fb84dd170c7cee11f1167055c64864d1
+SHA256: fc86e827153c22a7d802fb2c64c1ebe6a9206d0928e64488e27e6be6b382aed6
 Section: utils
 Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 1.0.0
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./watchyourlan-1.0.0-0_all.deb
-Size: 9267372
-MD5sum: b140604b7fb3159145df8d7de0735b19
-SHA1: 9267848ae49479d07135b0533aaebfeb87c686ee
-SHA256: 9b500103d9e96a4c00b327130cdf914be16b3c32dacbea4524871286ed08f480
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 1.0.1
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Depends: arp-scan, tzdata
-Filename: ./watchyourlan-1.0.1-0_all.deb
-Size: 9320076
-MD5sum: 69cbc01709810dbd791614a84892020a
-SHA1: 0e586b0525c144320644a079d6e1bc5c833b2fae
-SHA256: 3de8aaf203473a584ad3b9c200f35f53a891f51de822d4a39d48277e6d1d8ace
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 1.0.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Depends: arp-scan, tzdata
-Filename: ./watchyourlan-1.0.2-0_all.deb
-Size: 10056014
-MD5sum: 340f653b2f54f12553802ac473b0d3b7
-SHA1: 3e61c09ed57914f72e3aeb3bf8d523302187660a
-SHA256: 9354711b183865f403e4d5095c1967e37078248f5523696d10a3bec5ec562fde
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
+Homepage: https://github.com/aceberg/miniboard
+Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
 Package: watchyourlan
 Version: 1.0.3
