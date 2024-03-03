@@ -1,3 +1,18 @@
+Package: ExerciseDiary
+Version: 0.1.7
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 15396
+Filename: ./ExerciseDiary_0.1.7_linux_amd64.deb
+Size: 6468492
+MD5sum: 2b773fb7e537693a34c07c431e45c190
+SHA1: d10fd76563d13f3eba24f37bf9ac2f6c99a6c5e1
+SHA256: 5e147c4b2b378089a9d12dbe6239f53b164ace49d0e17e36394897350c64d768
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/ExerciseDiary
+Description: Workout diary with GitHub-style year visualization
+
 Package: git-confed
 Version: 0.1.3
 Architecture: all
