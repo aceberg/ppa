@@ -29,19 +29,6 @@ Homepage: https://github.com/aceberg/ExerciseDiary
 Description: Workout diary with GitHub-style year visualization
 
 Package: git-confed
-Version: 0.1.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-confed-0.1.3-0_all.deb
-Size: 5698640
-MD5sum: 0340c1ed46d1d5f764653332c0c303df
-SHA1: 884bb7a8f0a2a07b58a7e2558faec5a5c7034b6c
-SHA256: 6fc396e9ace38afb484e75cb91ba236ae62b2954df1a6610c263fa47841e3729
-Section: utils
-Priority: optional
-Description: Edit .git/config by predefined blocks
-
-Package: git-confed
 Version: 0.1.4
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -50,6 +37,19 @@ Size: 5699180
 MD5sum: 60c2d02a7466db9faa039e9680f4a1e2
 SHA1: 35e0da192b97f4d0838665acf49a8c1c06a9b941
 SHA256: 3d6f7c17c803e61d343d7fc9307ac2cc78313c2acb06f475aa58c057d423aaa9
+Section: utils
+Priority: optional
+Description: Edit .git/config by predefined blocks
+
+Package: git-confed
+Version: 0.1.5
+Architecture: all
+Maintainer: aceberg <aceberg_a@proton.me>
+Filename: ./git-confed-0.1.5-0_all.deb
+Size: 6081528
+MD5sum: 26618059e91da9be48d666e77c0f3db6
+SHA1: 1439ea38feb1cd3826ffb6136c2644a2afcd6357
+SHA256: ce505f109c333e892a2d45f7cd8ce49d59ca2ffacca929a3b0215d4de29faec6
 Section: utils
 Priority: optional
 Description: Edit .git/config by predefined blocks
