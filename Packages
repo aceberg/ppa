@@ -215,34 +215,6 @@ Homepage: https://github.com/aceberg/miniboard
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
 Package: watchyourlan
-Version: 1.0.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Depends: arp-scan, tzdata
-Filename: ./watchyourlan-1.0.3-0_all.deb
-Size: 10055976
-MD5sum: 8621307df372213d7997830e2da864aa
-SHA1: 817ce809493c92ebf6b5850e43094ef5998bbe6b
-SHA256: 10effa4ea59c2b5265bdd6502016f356861c7e5c6d1f18e8fedbff37bae380f1
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
-Version: 1.0.4
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Depends: arp-scan, tzdata
-Filename: ./watchyourlan-1.0.4-0_all.deb
-Size: 10055748
-MD5sum: c07e13594752de1b4ef1a673d864ae1f
-SHA1: e6db1a72d54d426fe20c5b340bc960426c195b1d
-SHA256: c4f03219f687a84bb71640505e25c3b0fcb1d82e911b374558b30f7de5e1f0a3
-Section: utils
-Priority: optional
-Description: Lightweight network IP scanner with web GUI
-
-Package: watchyourlan
 Version: 1.0.6
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -257,4 +229,21 @@ Section: utils
 Priority: optional
 Homepage: https://github.com/aceberg/watchyourlan
 Description: Lightweight network IP scanner with web GUI
+
+Package: watchyourlan
+Version: 2.0.4
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 18832
+Depends: arp-scan, tzdata
+Filename: ./watchyourlan_2.0.4_linux_amd64.deb
+Size: 7702780
+MD5sum: d56ddf0390608df92971c74af8e4b0d5
+SHA1: 1b9839fff933e866d8dd959c6617a4c7143353eb
+SHA256: 0d2bccaa6dbcb60cf7887c466be76eac5c823d6e7126701d1b57ee30261a8e78
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/watchyourlan
+Description: Lightweight network IP scanner with web GUI
+License: MIT
 
