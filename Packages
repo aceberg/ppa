@@ -1,3 +1,19 @@
+Package: AnyAppStart
+Version: 0.1.2
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 12460
+Filename: ./AnyAppStart_0.1.2_linux_amd64.deb
+Size: 5068114
+MD5sum: 598166a2c04d1cb6fbf5b49ad8dc5b8e
+SHA1: 945cf95c63e6f22399e0ebb2fe67358c96370921
+SHA256: a32eebe0765ba25f3ee592ef64839063ae5ae43ffd1e1d9065650c013e1a4dd6
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/AnyAppStart
+Description: Start/Stop Docker, Systemd and other apps
+License: MIT
+
 Package: ExerciseDiary
 Version: 0.1.7
 Architecture: amd64
@@ -29,19 +45,6 @@ Homepage: https://github.com/aceberg/ExerciseDiary
 Description: Workout diary with GitHub-style year visualization
 
 Package: git-confed
-Version: 0.1.4
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-confed-0.1.4-0_all.deb
-Size: 5699180
-MD5sum: 60c2d02a7466db9faa039e9680f4a1e2
-SHA1: 35e0da192b97f4d0838665acf49a8c1c06a9b941
-SHA256: 3d6f7c17c803e61d343d7fc9307ac2cc78313c2acb06f475aa58c057d423aaa9
-Section: utils
-Priority: optional
-Description: Edit .git/config by predefined blocks
-
-Package: git-confed
 Version: 0.1.5
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -68,19 +71,6 @@ Priority: optional
 Description: Edit .git/config by predefined blocks
 
 Package: git-syr
-Version: 0.1.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-0.1.3-0_all.deb
-Size: 5688708
-MD5sum: eca6571f7c05c2f22477e433bc4ec2c1
-SHA1: 0026fb0f7556766c080a460bce59cf394bbf5c6f
-SHA256: 99818866b6b8b018a85ab978b5613ac272daff304961facc1348f9e4b29d0901
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr
 Version: 0.1.4
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -102,45 +92,6 @@ Size: 6400388
 MD5sum: 97a633ef233545cc05b4eb1255556e6b
 SHA1: 6bbcddbbacd5c83778eebd80e4bf6babeb2b3684
 SHA256: 3554477ec61d113ba1676bc1b973017d424f28b0dc8340c3900cee192139501c
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr-cli
-Version: 0.1.3
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-cli-0.1.3-0_all.deb
-Size: 1683860
-MD5sum: 460ab2ca5d3528e19f38f8865ac8f17e
-SHA1: b7d81fe41e10933a4837568c1a5bb3852ee44b56
-SHA256: 75ab07a89d908812415fb8451820ecb9ced64bf664678f377c269c718ddb18c1
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr-cli
-Version: 0.1.4
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-cli-0.1.4-0_all.deb
-Size: 1683880
-MD5sum: 138791c9dc4972690b85afa16d4a2c1c
-SHA1: 1a40b0a0221ad3bc1c1a5cba63bd4a7428c28430
-SHA256: 274007f5dc6e783097834411ce4286edabc90f121808aff7ae72b88548cfd3b3
-Section: utils
-Priority: optional
-Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: git-syr-cli
-Version: 0.1.5
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./git-syr-cli-0.1.5-0_all.deb
-Size: 1912948
-MD5sum: 8225c49421075aa2443189fe197f1da0
-SHA1: d85434f529e795641c2705ec4c0164e73d81074e
-SHA256: 54d186176487ff4d60556ceff38e8d31c3be043f784bba54d32519ab0eaf8c34
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly

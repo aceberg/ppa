@@ -24,6 +24,7 @@ sudo apt install $PKGNAME
 ## Packages
 | Link | Description | PKGNAME |
 | ---- | ---- | ---- |
+| [AnyAppStart](https://github.com/aceberg/AnyAppStart) | Start/Stop Docker, Systemd and other apps | anyappstart |
 | [git-confed](https://github.com/aceberg/git-confed) | Edit .git/config by predefined blocks | git-confed |
 | [git-syr](https://github.com/aceberg/git-syr) | Sync Your Repos - pull or push your git repos regularly | git-syr |
 | [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) | Workout diary with GitHub-style year visualization  | exercisediary |
