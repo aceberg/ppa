@@ -215,3 +215,20 @@ Homepage: https://github.com/aceberg/watchyourlan
 Description: Lightweight network IP scanner with web GUI
 License: MIT
 
+Package: watchyourlan
+Version: 2.1.1
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 21208
+Depends: arp-scan, tzdata
+Filename: ./watchyourlan_2.1.1_linux_amd64.deb
+Size: 8516512
+MD5sum: f87f83fb72bc9f154946400ea34fe734
+SHA1: 4769eac36d15988d6f47c4416967cce1c327ad36
+SHA256: 15160ab941dcb74a359c87257cfe40c4d57149872762cb47196631321252c686
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/watchyourlan
+Description: Lightweight network IP scanner with web GUI
+License: MIT
+
