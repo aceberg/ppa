@@ -30,6 +30,22 @@ Homepage: https://github.com/aceberg/AnyAppStart
 Description: Start/Stop Docker, Systemd and other apps
 License: MIT
 
+Package: AnyAppStart
+Version: 0.1.4
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 12508
+Filename: ./AnyAppStart_0.1.4_linux_amd64.deb
+Size: 5083760
+MD5sum: d509640205139422c95832345c31f39d
+SHA1: 49a72681590e12c6761f8858d3af204525916263
+SHA256: 9c69e57a470027338eea6560fbc650ab1d6959d07f823a4b5a8157524fc4e885
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/AnyAppStart
+Description: Start/Stop Docker, Systemd and other apps
+License: MIT
+
 Package: ExerciseDiary
 Version: 0.1.7
 Architecture: amd64
