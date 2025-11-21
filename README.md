@@ -30,4 +30,5 @@ sudo apt install $PKGNAME
 | [ExerciseDiary](https://github.com/aceberg/ExerciseDiary) | Workout diary with GitHub-style year visualization  | exercisediary |
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | linuxexecbot |
 | [miniboard](https://github.com/aceberg/miniboard) | Lightweight dashboard with tabs, uptime monitoring and notifications | miniboard |
+| [TrayPumpkin](https://github.com/aceberg/TrayPumpkin) | Fully configurable tray icon and menu | tray-pumpkin |
 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI | watchyourlan |

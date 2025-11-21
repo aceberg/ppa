@@ -197,6 +197,22 @@ Priority: optional
 Homepage: https://github.com/aceberg/miniboard
 Description: Lightweight dashboard with tabs, uptime monitoring and notifications
 
+Package: tray-pumpkin
+Version: 0.1.2
+Architecture: amd64
+Maintainer: Andrew Erlikh
+Installed-Size: 262
+Depends: qtbase5-dev, libkf5notifications-dev, libyaml-cpp-dev
+Filename: ./tray-pumpkin-0.1.2-x86_64.deb
+Size: 61730
+MD5sum: cddfe1f45b13bbbf48727b70e8d57a8d
+SHA1: 53386c0f15d441c2a4c3b128b86a81ef2102365e
+SHA256: 04d5e9764c8da33ab19e8b2ce6ed37e5272eae3ce119f2eaad6dc6c500473c22
+Section: devel
+Priority: optional
+Homepage: https://github.com/aceberg/TrayPumpkin
+Description: configurable tray icon and menu
+
 Package: watchyourlan
 Version: 2.1.1
 Architecture: amd64
