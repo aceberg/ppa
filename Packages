@@ -245,6 +245,22 @@ Priority: optional
 Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
+Package: tray-pumpkin
+Version: 0.1.5
+Architecture: amd64
+Maintainer: Andrew Erlikh
+Installed-Size: 429
+Depends: libqt5widgets5, libqt5gui5, libqt5core5a, libkf5notifications5, libyaml-cpp0.7 | libyaml-cpp0.8
+Filename: ./tray-pumpkin-0.1.5-x86_64.deb
+Size: 188370
+MD5sum: 83989e70665c5585317dc9710066529e
+SHA1: 6f166ef61134a94dfc423a0ec6e1b9f10983d108
+SHA256: 61d023a81f489f7ffd3d468d4628311bf09e15ab74fe6d91fea02a385d8884c4
+Section: devel
+Priority: optional
+Homepage: https://github.com/aceberg/TrayPumpkin
+Description: configurable tray icon and menu
+
 Package: watchyourlan
 Version: 2.1.1
 Architecture: amd64
