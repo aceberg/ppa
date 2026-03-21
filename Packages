@@ -76,6 +76,23 @@ Priority: optional
 Homepage: https://github.com/aceberg/ExerciseDiary
 Description: Workout diary with GitHub-style year visualization
 
+Package: LinuxExecBot
+Version: 1.2.1
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 6793
+Filename: ./LinuxExecBot_1.2.1_linux_amd64.deb
+Size: 2948162
+MD5sum: 24527ddcbb7cc040d7eae9883e8f4b64
+SHA1: c3bd65c090c62d001fd6e5edf35e0e1fb0a0d487
+SHA256: 4be368e7ea64055da21b9fec6ba21773b0185f47a0b3fdba7896f9826be28cd5
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/LinuxExecBot
+Description: Telegram bot to execute a command from a configurable list
+Architecture-Variant: amd64v1
+License: MIT
+
 Package: git-confed
 Version: 0.1.5
 Architecture: all
@@ -127,19 +144,6 @@ SHA256: 3554477ec61d113ba1676bc1b973017d424f28b0dc8340c3900cee192139501c
 Section: utils
 Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
-
-Package: linuxexecbot
-Version: 1.0.2
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./LinuxExecBot-1.0.2-0_all.deb
-Size: 4004880
-MD5sum: 54b7fbeb20272b7154dc2f91ad67d3cf
-SHA1: df05f5a0a6724855c646d7204b54733ca7d53162
-SHA256: 794e7c7f0619d6cce993d0a2ce8f1e56d13ae47f8f143ff133037089316be375
-Section: utils
-Priority: optional
-Description: Telegram bot to execute a command from a configurable list
 
 Package: linuxexecbot
 Version: 1.1.0
