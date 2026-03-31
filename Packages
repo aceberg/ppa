@@ -93,6 +93,22 @@ Description: Telegram bot to execute a command from a configurable list
 Architecture-Variant: amd64v1
 License: MIT
 
+Package: LinuxExecBot
+Version: 1.2.2
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 6793
+Filename: ./LinuxExecBot_1.2.2_linux_amd64.deb
+Size: 2938848
+MD5sum: 180dec6706304a17ca3e727e36e64334
+SHA1: 9340cb3ebea762eca03adfe42411cf46c0a71ae3
+SHA256: 0288f8858862e5b2d75c41f44695fd2ae61f3f1dcac7e989abb6c53c70c8cc98
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/LinuxExecBot
+Description: Telegram bot to execute a command from a configurable list
+Architecture-Variant: amd64v1
+
 Package: git-confed
 Version: 0.1.5
 Architecture: all
