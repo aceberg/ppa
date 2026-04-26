@@ -281,6 +281,22 @@ Homepage: https://github.com/aceberg/unbox
 Description: tool to convert a file with VLESS links to a full sing-box config
 Architecture-Variant: amd64v1
 
+Package: unbox
+Version: 0.1.1
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 3148
+Filename: ./unbox_0.1.1_linux_amd64.deb
+Size: 1350342
+MD5sum: cdaa8ea55979a584b7170e856779d927
+SHA1: b3fb2aadce437f58f008656f93f4a5fb2a8a6dc3
+SHA256: 131781e1bb6079c7b997428814d0ff2f1bf3396644ceb3eae377746d345811f0
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+Architecture-Variant: amd64v1
+
 Package: watchyourlan
 Version: 2.1.1
 Architecture: amd64
