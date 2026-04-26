@@ -265,6 +265,22 @@ Priority: optional
 Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
+Package: unbox
+Version: 0.1.0
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 3160
+Filename: ./unbox_0.1.0_linux_amd64.deb
+Size: 1355124
+MD5sum: d68ffc3b041f2ef5c73805444fce3346
+SHA1: 5ce419fd7ccf2a9d4c33fbb78af9c5fc539e6631
+SHA256: 0755a6dd30523c321875f178b69427ad46ee89e34a87badacdcd1760560f8668
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+Architecture-Variant: amd64v1
+
 Package: watchyourlan
 Version: 2.1.1
 Architecture: amd64
