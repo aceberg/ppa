@@ -162,19 +162,6 @@ Priority: optional
 Description: Sync Your Repos - pull or push your git repos regularly
 
 Package: linuxexecbot
-Version: 1.1.0
-Architecture: all
-Maintainer: aceberg <aceberg_a@proton.me>
-Filename: ./LinuxExecBot-1.1.0-0_all.deb
-Size: 4008992
-MD5sum: c206160754e7ac3a7520ea49d58e711e
-SHA1: 6b510f133220a6d3a4a96905dd66bd209acf6ff0
-SHA256: 531b2cf67f15e02091012f1bc70f7f1677f797206c3371173d3ae6e77981cc1f
-Section: utils
-Priority: optional
-Description: Telegram bot to execute a command from a configurable list
-
-Package: linuxexecbot
 Version: 1.2.0
 Architecture: all
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -266,22 +253,6 @@ Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
 Package: unbox
-Version: 0.1.0
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 3160
-Filename: ./unbox_0.1.0_linux_amd64.deb
-Size: 1355124
-MD5sum: d68ffc3b041f2ef5c73805444fce3346
-SHA1: 5ce419fd7ccf2a9d4c33fbb78af9c5fc539e6631
-SHA256: 0755a6dd30523c321875f178b69427ad46ee89e34a87badacdcd1760560f8668
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
 Version: 0.1.1
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -313,22 +284,21 @@ Homepage: https://github.com/aceberg/unbox
 Description: tool to convert a file with VLESS links to a full sing-box config
 Architecture-Variant: amd64v1
 
-Package: watchyourlan
-Version: 2.1.1
+Package: unbox
+Version: 0.1.3
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 21208
-Depends: arp-scan, tzdata
-Filename: ./watchyourlan_2.1.1_linux_amd64.deb
-Size: 8516512
-MD5sum: f87f83fb72bc9f154946400ea34fe734
-SHA1: 4769eac36d15988d6f47c4416967cce1c327ad36
-SHA256: 15160ab941dcb74a359c87257cfe40c4d57149872762cb47196631321252c686
+Installed-Size: 3156
+Filename: ./unbox_0.1.3_linux_amd64.deb
+Size: 1352412
+MD5sum: 659cda04570c526b94590c5bdff22cc5
+SHA1: 6412f74e609ebbe948fb079f2a350353ecf16564
+SHA256: 437fc24a21c0d1e326032adb8d0737ee2a500c476810b258086c98ef4de9e9d9
 Section: utils
 Priority: optional
-Homepage: https://github.com/aceberg/watchyourlan
-Description: Lightweight network IP scanner with web GUI
-License: MIT
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+Architecture-Variant: amd64v1
 
 Package: watchyourlan
 Version: 2.1.2
