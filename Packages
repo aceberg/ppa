@@ -253,38 +253,6 @@ Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
 Package: unbox
-Version: 0.1.3
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 3156
-Filename: ./unbox_0.1.3_linux_amd64.deb
-Size: 1352412
-MD5sum: 659cda04570c526b94590c5bdff22cc5
-SHA1: 6412f74e609ebbe948fb079f2a350353ecf16564
-SHA256: 437fc24a21c0d1e326032adb8d0737ee2a500c476810b258086c98ef4de9e9d9
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
-Version: 0.1.4
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 3160
-Filename: ./unbox_0.1.4_linux_amd64.deb
-Size: 1353492
-MD5sum: 1acb8945b4404a174bcad5ce353e84c7
-SHA1: f6a12b57a522a11f55f3e53dfe449f3f66f7db69
-SHA256: 3af42d24744ee79ad433b036e60a50b6ee66185c5cb5c694e38a816b34bdf9b6
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
 Version: 0.1.5
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -310,6 +278,22 @@ Size: 3276494
 MD5sum: 22cdc0a672d813d495776d02cc49e95f
 SHA1: e3ef4df8d776db1a831e1963a65f6abc8c9915fe
 SHA256: fe880bad486ecde555dea3d9d8bdd376e9e1f010b55b96b583891cded7edcb1f
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+Architecture-Variant: amd64v1
+
+Package: unbox
+Version: 0.2.2
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 7876
+Filename: ./unbox_0.2.2_linux_amd64.deb
+Size: 3277814
+MD5sum: 644f4fd8abc737722b47443252e9f223
+SHA1: 34cddc31bbb8123eb2d44b1c05599fb6dfd40ec9
+SHA256: 09e5dfc2738615f405ca719d7268be0f92898700137da9507c50ce0ea88bd24b
 Section: utils
 Priority: optional
 Homepage: https://github.com/aceberg/unbox
