@@ -306,10 +306,10 @@ Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
 Installed-Size: 7876
 Filename: ./unbox_0.2.3_linux_amd64.deb
-Size: 3277844
-MD5sum: 81ea120092e8b8458653d22263df4761
-SHA1: 7cc20a502902bc999454d42867424a48d2e76542
-SHA256: 31c91469c66307eb5a616a73b39db2bdd4624db7e93a82f52f139a7dcf5f5191
+Size: 3277788
+MD5sum: 26f52502ed613cdc377f8fd2f9982a75
+SHA1: ab0cd3f69ffe16762f0db1f0341d2ca2e40b65a6
+SHA256: 0b48881c9c1257e2a592633cddb3f63b496166774bfcaa04bef0a606fd9ab0ad
 Section: utils
 Priority: optional
 Homepage: https://github.com/aceberg/unbox
