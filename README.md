@@ -31,5 +31,5 @@ sudo apt install $PKGNAME
 | [LinuxExecBot](https://github.com/aceberg/LinuxExecBot) | Telegram bot to execute a command from a configurable list | linuxexecbot |
 | [miniboard](https://github.com/aceberg/miniboard) | Lightweight dashboard with tabs, uptime monitoring and notifications | miniboard |
 | [TrayPumpkin](https://github.com/aceberg/TrayPumpkin) | Fully configurable tray icon and menu | tray-pumpkin |
-| [unbox](https://github.com/aceberg/unbox) | Converts a file with VLESS links to a full sing-box config | unbox |
+| [unbox](https://github.com/aceberg/unbox) | CLI tool for sing-box: keep alive, auto switch. Convert URLs to sing-box config. Deduplicate. Remove unreachable servers | unbox |
 | [WatchYourLAN](https://github.com/aceberg/WatchYourLAN) | Lightweight network IP scanner with web GUI | watchyourlan |
