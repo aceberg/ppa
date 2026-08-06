@@ -253,70 +253,6 @@ Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
 Package: unbox
-Version: 0.2.4
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 7880
-Filename: ./unbox_0.2.4_linux_amd64.deb
-Size: 3279608
-MD5sum: 586e9ebb95654536a11769242c7f0b2b
-SHA1: 85cf04cdb715e4d3bf181885dffc659016d78176
-SHA256: f8d5d0878fa3721336702407a2533692b96e5364e6f57be23ab533b2b1196afc
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
-Version: 0.2.5
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 7880
-Filename: ./unbox_0.2.5_linux_amd64.deb
-Size: 3280056
-MD5sum: d80b89ed38594f995c8cda3328c5474c
-SHA1: 66d0fb00f5827f8e83363f78e0833051fb2f6ee0
-SHA256: d9b1e6e5a3d3d754b87283cc52949e858177187456884eb6fd53292e4b3bb25a
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
-Version: 0.3.2
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 7892
-Filename: ./unbox_0.3.2_linux_amd64.deb
-Size: 3284804
-MD5sum: e2cf7e51c8de62a9c437547ffdcc3af5
-SHA1: c850daff09b611f67eb71e8d4c09377096b19ff4
-SHA256: f9220cf46b0e110377c7b5c532fec424870c03fc7d252aaa54f9281199b389af
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
-Version: 1.0.1
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 7904
-Filename: ./unbox_1.0.1_linux_amd64.deb
-Size: 3289554
-MD5sum: 14e764e17d62d2986cf766e308ad67e5
-SHA1: ad4da1f20df47c5a274181824099e8e2faecd5a5
-SHA256: 33af5b5e0cd4e8b6965a299ecda7cdf8eb6590d5a7bbe62306e2c17df7fbb051
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
 Version: 1.0.2
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -342,6 +278,22 @@ Size: 3299308
 MD5sum: 30fab7f818267cac96edec65a1cede9c
 SHA1: bcaf4b54709b707e32e8309811db80711794e673
 SHA256: bab7f8711f7d849aa55519af1bcad673991391fcd913b90b3ec621a9756c4c2d
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+Architecture-Variant: amd64v1
+
+Package: unbox
+Version: 1.0.4
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 7928
+Filename: ./unbox_1.0.4_linux_amd64.deb
+Size: 3300800
+MD5sum: 2e15201638e398dc1e08b0b49c4abd0b
+SHA1: 4246baa1aa5ce3d6e2ba48e9e26465fd29856d76
+SHA256: 10e0cff6a6b26b8bbcfa0cb459150d15d3b01acb44fa3074e14fbf473f413f80
 Section: utils
 Priority: optional
 Homepage: https://github.com/aceberg/unbox
