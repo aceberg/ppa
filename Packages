@@ -253,22 +253,6 @@ Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
 Package: unbox
-Version: 1.0.2
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 7920
-Filename: ./unbox_1.0.2_linux_amd64.deb
-Size: 3297228
-MD5sum: 500aecf4a19c607f9f360e0e8c2b6830
-SHA1: b7e748ae0738209f2f0c82d5c63597c80ecd3061
-SHA256: 7597801245d2ecea9fec3630b5e96335fadd2bf773ae14cd31e9509177f74b2c
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-Architecture-Variant: amd64v1
-
-Package: unbox
 Version: 1.0.3
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -299,6 +283,21 @@ Priority: optional
 Homepage: https://github.com/aceberg/unbox
 Description: tool to convert a file with VLESS links to a full sing-box config
 Architecture-Variant: amd64v1
+
+Package: unbox
+Version: 1.0.6
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 8484
+Filename: ./unbox_1.0.6_linux_amd64.deb
+Size: 3550874
+MD5sum: e2e1973f30a954db1aa334fa34f95624
+SHA1: 28e7afa2e1cd3059bb8aaf315679726f4347d9bf
+SHA256: 0a3412aa75d55d8a7667b2602d189383553b061b713029600d04e758045303aa
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
 
 Package: watchyourlan
 Version: 2.1.2
