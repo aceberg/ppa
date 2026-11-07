@@ -253,21 +253,6 @@ Homepage: https://github.com/aceberg/TrayPumpkin
 Description: configurable tray icon and menu
 
 Package: unbox
-Version: 1.0.6
-Architecture: amd64
-Maintainer: aceberg <aceberg_a@proton.me>
-Installed-Size: 8484
-Filename: ./unbox_1.0.6_linux_amd64.deb
-Size: 3550874
-MD5sum: e2e1973f30a954db1aa334fa34f95624
-SHA1: 28e7afa2e1cd3059bb8aaf315679726f4347d9bf
-SHA256: 0a3412aa75d55d8a7667b2602d189383553b061b713029600d04e758045303aa
-Section: utils
-Priority: optional
-Homepage: https://github.com/aceberg/unbox
-Description: tool to convert a file with VLESS links to a full sing-box config
-
-Package: unbox
 Version: 1.0.7
 Architecture: amd64
 Maintainer: aceberg <aceberg_a@proton.me>
@@ -292,6 +277,21 @@ Size: 3570836
 MD5sum: 83258cdd59d44e71838b960007c393ad
 SHA1: b698bdd2fe601ce7b0c4e2da1df98048f5d9357c
 SHA256: c5ba0be00975e0cbba37c51005b5c3ef0be8ff2d270bf7d38ef0c62b29412562
+Section: utils
+Priority: optional
+Homepage: https://github.com/aceberg/unbox
+Description: tool to convert a file with VLESS links to a full sing-box config
+
+Package: unbox
+Version: 1.0.9
+Architecture: amd64
+Maintainer: aceberg <aceberg_a@proton.me>
+Installed-Size: 8548
+Filename: ./unbox_1.0.9_linux_amd64.deb
+Size: 3578292
+MD5sum: 1a8ee20dc2f45ccf18c4701c403965ec
+SHA1: eb23810228629e7c6e622ebff0e60a7061d3c26a
+SHA256: 27bd58ab99d0471e54f766c41677e3c6533e8d708924e6a70de21b70a2287b90
 Section: utils
 Priority: optional
 Homepage: https://github.com/aceberg/unbox
